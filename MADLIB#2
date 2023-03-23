@@ -1,0 +1,17 @@
+print("welcome to 'MADLIB#2' made by jonathan")
+print("please answer the following questions:")
+print("")
+
+word1 = input("Please enter a word, of your choosing, here (OPTIONAL). >>")
+country1 = input("Please enter a country, or nationality here of your choosing >>")
+person1 = input("Please input something or someone's name here >>")
+person2 = input("Once more, Please input something or someone's name here >>")
+location1 = input("Please input some location here. >>")
+
+print("")
+print("Here is your MADLIB - made by you.")
+print("")
+print("Spain colonized the North American continent during the colonial era, north america was disocovered by",person1)
+print("As the Spanish Empire crumbled, this was caused by",person2)
+print("A new country entered the world stage, with it being,",country1)
+print("And finally, this all took place at the location,",location1)
