@@ -1,0 +1,40 @@
+print("Hello, welcome to MADLIB#3, Made by Jonathan")
+print("Please answer the following questions:")
+print("")
+
+name1 = input("Please enter a name here >")
+name2 = input("Please enter a second name here >")
+nationality1 = input("Please enter a country / nationality here >")
+nationality2 = input("Please enter a second country / nationality here >")
+location1 = input("Please enter a place or location here >")
+
+print("")
+print("Here is your custom made MADLIB#3")
+print("")
+print("During the 19th century, the worlds leading power was Great Britain (Pax britannica), it was led by",name1)
+print("The downfall of britain was a result of prussian militarism, which was supported by",name2)
+print("A major continent that was exploited for its rich resources was, ",nationality1)
+print("Another major region of the world that was exploited for its rich oil reserves was, ",nationality2)
+print("Overall, this all was led in the location known, referred to as",location1)
+
+print("")
+print("Would you like to make a second Madlib? - please say yes")
+
+Yes = input("Alright, one moment please.")
+
+print("")
+
+print("Please answer the following questions:")
+
+name3 = input("Please enter a name here >")
+name4 = input("Please enter a second name here >")
+na1 = input("Please enter a nationality / country here >")
+na2 = input("Please enter a second nationality / country here >")
+
+print("")
+print("Here is your second MADLIB.")
+print("")
+print("During the 19th and early 20th century, a leading world power was the German Empire, the person who led it was",person3)
+print("Sadly, it collapsed due to the first world war, which was caused by,",name4)
+print("A Continent that the German Empire highly colonised was,",na1)
+print("A local region of north east as that was highly colonised by the German Empire was,",na2)
