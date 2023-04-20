@@ -1,0 +1,7 @@
+
+ 
+lunch = input("Has my lunch been finished? Y or N?")
+if lunch == ("Y"):
+  print("Yeah hold on")
+else:
+    print("No, Im not bothered")
