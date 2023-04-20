@@ -1,0 +1,26 @@
+#This is a comment
+#Variables VS Constants
+#Variables are declared in titlecase
+#CONSTANT are declared in CAPITALS
+
+#Example of variable
+
+Team1Name = "TeamSpeak"
+Team2Name = "Discord"
+
+#Variables have a useful name
+#Variables store a value (can change, of course.)
+#Variables can NOT start with a number.
+#E.g. 1TeamName = "TeamSpeak"
+#This will cause a syntax error
+
+#Variables cannot have a space in the name 
+#e.g. Team Name = "Discord"
+#This will be a syntax error
+
+#This is a example of a CONSTANT
+FREETHROW = 1
+TWOPOINTER = 2
+THREEPOINTER = 3
+
+#The values is a constant do not change 
