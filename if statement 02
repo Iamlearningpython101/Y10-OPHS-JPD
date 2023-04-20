@@ -1,0 +1,4 @@
+age = 16
+
+if age >=16:
+  print("you are old enough to drink. cool")
