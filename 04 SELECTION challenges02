@@ -1,0 +1,13 @@
+print("enter a number under 20.")
+input("")
+
+number1 = 20-10
+
+
+if number1 == number1:
+  print("thanks for inputting the right number, it is under 20.")
+
+number2 = 20-100
+if number2 >= number2:
+  print("this is too high, sorry, try again")
+
