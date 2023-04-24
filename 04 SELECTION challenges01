@@ -1,0 +1,10 @@
+print("Please enter a number, this can be random. e.g. 10 or 20")
+number1 = input("Enter number1 here -")
+number2 = input("Enter number2 here -")
+
+
+if number1 >= number2:
+  print(number2,number1)      
+else:
+  print(number1,number2)
+
