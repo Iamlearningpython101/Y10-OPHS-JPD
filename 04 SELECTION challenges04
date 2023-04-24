@@ -1,0 +1,11 @@
+print=int(input("whats your favourite colour"))
+
+if fav_col == "red" or fav_col == "RED" or fav_col == "Red":
+  print("I like red too.")
+
+fav_col == "red","RED","Red"
+ 
+ 
+ 
+ PROVISIONAL CODE ^
+ WILL BE REVISED AT A LATER DATE.
