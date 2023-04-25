@@ -1,11 +1,10 @@
-print=int(input("whats your favourite colour"))
+print("Whats your favourite colour?")
+colour = str(input("enter a colour"))
+if colour == "red" or colour == "Red":
+  print("I like red too")
+else:
+  print("I dont like any other colour other than Red.")
 
-if fav_col == "red" or fav_col == "RED" or fav_col == "Red":
-  print("I like red too.")
 
-fav_col == "red","RED","Red"
+
  
- 
- 
- PROVISIONAL CODE ^
- WILL BE REVISED AT A LATER DATE.
