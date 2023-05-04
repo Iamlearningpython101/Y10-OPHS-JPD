@@ -1,0 +1,8 @@
+total = 0 
+while total <=50:
+  int(input("input number to the right ->"))
+  total + total =
+
+
+
+PROVISIONAL CODE - WILL BE DONE LATER. 
