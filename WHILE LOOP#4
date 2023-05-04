@@ -1,0 +1,12 @@
+
+answerOK = False
+while answerOK == False:
+  
+  answer = input("Exit, Y OR N?").upper()
+  if answer == "Y":
+    answerOK = True 
+
+
+
+
+
