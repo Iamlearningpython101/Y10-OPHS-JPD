@@ -1,0 +1,7 @@
+name = int(input("input a name here -"))
+number = int(input("input a number here -"))
+
+for storage in range(1,10):
+  print(name)
+
+code being worked on.
