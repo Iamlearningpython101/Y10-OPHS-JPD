@@ -39,6 +39,18 @@
 #price = float(input("Enter the price of the carpet per m2: "))
 #print("The total cost is: £", carpet_cost(width, length, price))
 
+my version:
+
+def cost_of_an_underlay(width,length,price):
+  underlay = width * length * price 
+  gripping = width + length
+  fitting = 50 
+  return underlay + gripping + fitting
+  
+width = int(input("Enter the width of the room to nearest meter: "))
+length = int(input("Enter the length of the room to nearest meter: "))
+price = float(input("Enter the price of the underlay per m2: "))
+print("The total cost is: £", cost_of_an_underlay(width,length,price))
 
 
 
