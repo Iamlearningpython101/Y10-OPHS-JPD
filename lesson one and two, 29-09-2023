@@ -1,0 +1,53 @@
+#Lesson One - "HELLO WORLD PROGRAM"
+
+#Question one - Identify a string in the program
+# The string would be the 'hello world'
+
+#Question two - state what strings must be enclosed with 
+# The string must always be enclosed with quotation marks
+
+#def output():
+ # print("hi world")
+
+#output()
+
+#-----------------------------------------------------------------------#
+
+# Lesson two - "Python carpet cost"
+
+#Questions:
+#Q1 - Explain the purpose of the int command in lines 15, 16 and 17.
+#A1 - The purpose of it is so that when the values are inputted, it will then use that data to work out a logical answer to the question being asked of it earlier.
+
+#Q2 - Explain why a subprogram was used in lines 6-10 instead of writing the code from line 19 onwards.
+#A2 - A sub-program was used because it could likely be added to another piece of code or something like that, IDK.
+
+# -------------------------
+# Subprograms
+# -------------------------
+#def carpet_cost(width, length, price):
+ #   carpet = width * length * price
+  #  grippers = width + length
+ #   fitting = 50
+ #   return carpet + grippers + fitting
+    
+# -------------------------
+# Main program
+# -------------------------
+#width = int(input("Enter the width of the room to nearest meter: "))
+#length = int(input("Enter the length of the room to nearest meter: "))
+#price = float(input("Enter the price of the carpet per m2: "))
+#print("The total cost is: £", carpet_cost(width, length, price))
+
+
+
+
+
+
+
+
+
+
+
+
+
